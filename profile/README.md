@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+🙋‍♀️ Hello traveler! Are you ready to meet Nexus? Our organization is all about having *fun* with ***robotics***.
+👩‍💻 Our resource for development is community-ran. If you would like to help Nexus fly, you're more than welcome to contribute on our projects.
